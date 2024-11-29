@@ -1,4 +1,4 @@
-[![Header](https://github.com/NGavr/ngavr/blob/main/assets/Header.png)]
+![Header](https://github.com/NGavr/ngavr/blob/main/assets/Header.png)
 About me
 
 Some Tools I Use
