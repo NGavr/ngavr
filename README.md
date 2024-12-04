@@ -5,7 +5,7 @@
 ## A Few Facts
 - :love_you_gesture: Finished [functional software testing course](https://drive.google.com/file/d/1pfGfguooWFzjjskbHDjT93p-SB6wEo0z/view?usp=sharing) 
 - :books: Now I am learning SQL more depth
-- :man_technologist: In the future I plan to study java in python to study automation
+- :man_technologist: In addition i will study python and java for automation
 - :page_facing_up: Check out my [resume](https://docs.google.com/document/d/1pqVNP-J43it42avPTQEt9ixMVNcnWWHa/edit?usp=sharing&ouid=107111169204240524491&rtpof=true&sd=true)
 - :card_file_box: Random facts about me: I am interested in history, formula 1, soccer and WH40k ![][def]
 
