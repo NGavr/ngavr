@@ -21,6 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/008/117/8/logo/medium_83b5009e040969ee7b60362ad7426573.jpeg" title="testit" alt="testit" width="40" heigh="40">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" title="swagger" alt="swagger" width="40" height="40">
 </p>
 
 ## Test Artifacts
