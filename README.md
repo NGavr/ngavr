@@ -28,6 +28,8 @@
 
 <ls> :paperclips: [Website testing](https://github.com/NGavr/website-testing.git)
 
+<ls> :gear: [REST and SOAP API testing via Postman](https://github.com/NGavr/api_testing.git)
+
 Contacts
 
 
