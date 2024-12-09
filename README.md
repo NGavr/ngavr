@@ -30,7 +30,9 @@
 
 <ls> :gear: [REST and SOAP API testing via Postman](https://github.com/NGavr/api_testing.git)
 
-Contacts
-
+## <p align=center> Contacts </p>
+<p align=center>
+<a href="https://t.me/slamdunkisback"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a> 
+</p>
 
 [def]: https://github.com/NGavr/ngavr/blob/main/assets/space-marine-2-warhammer-40k.gif
