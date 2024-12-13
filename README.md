@@ -26,13 +26,14 @@
 
 ## Test Artifacts
 
-<ls> :paperclips: [Website testing](https://github.com/NGavr/website-testing.git)
-
-<ls> :gear: [REST and SOAP API testing via Postman](https://github.com/NGavr/api_testing.git)
+- :paperclips: [Website testing](https://github.com/NGavr/website-testing.git)
+- :gear: [REST and SOAP API testing via Postman](https://github.com/NGavr/api_testing.git)
+-  🐬 [MySQL](https://github.com/NGavr/mysql.git)
 
 ## <p align=center> Contacts </p>
 <p align=center>
 <a href="https://t.me/slamdunkisback"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a> 
+<a href="https://stepik.org/users/801115616/profile"><img src="https://play-lh.googleusercontent.com/pntZMcdncflBT7m-GhtujnmgihoS6VaTVoi1c2eoqm0Hgg3KBC-Hy2XAfmNBs-Cp1g" width="40" heght="40" alt="stepik"/></a>
 </p>
-
+ 
 [def]: https://github.com/NGavr/ngavr/blob/main/assets/space-marine-2-warhammer-40k.gif
