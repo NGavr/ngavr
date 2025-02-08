@@ -31,6 +31,7 @@
 - :paperclips: [Website testing](https://github.com/NGavr/website-testing.git)
 - :gear: [REST and SOAP API testing via Postman](https://github.com/NGavr/api_testing.git)
 -  🐬 [MySQL](https://github.com/NGavr/mysql.git)
+- :hammer_and_pick: [Some test tasks](https://github.com/NGavr/tests_tasks.git)
 
 ## <p align=center> Contacts </p>
 <p align=center>
