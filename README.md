@@ -32,7 +32,7 @@
 - :gear: [REST and SOAP API testing via Postman](https://github.com/NGavr/api_testing.git)
 -  🐬 [MySQL](https://github.com/NGavr/mysql.git)
 - :hammer_and_pick: [Some test tasks](https://github.com/NGavr/tests_tasks.git)
-
+- :eyes: [Data Analysis Project](https://github.com/NGavr/Data_Analysis_Projects.git)
 ## <p align=center> Contacts </p>
 <p align=center>
 <a href="https://t.me/slamdunkisback"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a> 
