@@ -8,7 +8,6 @@
 - :shield: I participate in [VK Test](https://vk.com/bugs?act=reporter&id=3104013) and in Yandex Maps testing
 - :books: Now I am learning Pyton
 - :man_technologist: In addition i will study autotesting on pyton
-- :page_facing_up: Check out my [resume](https://docs.google.com/document/d/1pqVNP-J43it42avPTQEt9ixMVNcnWWHa/edit?usp=sharing&ouid=107111169204240524491&rtpof=true&sd=true)
 - :card_file_box: Random facts about me: I am interested in history, formula 1, soccer and WH40k ![][def]
 
 ## Some Tools I Use
