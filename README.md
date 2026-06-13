@@ -5,6 +5,7 @@
 ## A Few Facts
 - :love_you_gesture: Finished [functional software testing course](https://drive.google.com/file/d/1pfGfguooWFzjjskbHDjT93p-SB6wEo0z/view?usp=sharing) 
 - :point_up: Finished [interactive SQL simulator](https://drive.google.com/file/d/1XCOHMNwALsPHzjj2nZ76BZdMdGklsUig/view?usp=sharing)
+- :point_up: Finished [Professional training course "QA Engineer"](https://drive.google.com/file/d/165bMsByGOvs-ICvTXIZur-VgJeG8v3XI/view?usp=sharing)
 - :shield: I participate in [VK Test](https://vk.com/bugs?act=reporter&id=3104013) and in Yandex Maps testing
 - :books: Now I am learning Pyton
 - :man_technologist: In addition i will study autotesting on pyton
@@ -19,9 +20,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-<img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/008/117/8/logo/medium_83b5009e040969ee7b60362ad7426573.jpeg" title="testit" alt="testit" width="40" heigh="40">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" title="swagger" alt="swagger" width="40" height="40">
 </p>
 
