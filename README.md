@@ -6,7 +6,6 @@
 - :love_you_gesture: Finished [functional software testing course](https://drive.google.com/file/d/1pfGfguooWFzjjskbHDjT93p-SB6wEo0z/view?usp=sharing) 
 - :point_up: Finished [interactive SQL simulator](https://drive.google.com/file/d/1XCOHMNwALsPHzjj2nZ76BZdMdGklsUig/view?usp=sharing)
 - :point_up: Finished [Professional training course "QA Engineer"](https://drive.google.com/file/d/165bMsByGOvs-ICvTXIZur-VgJeG8v3XI/view?usp=sharing)
-- :shield: I participate in [VK Test](https://vk.com/bugs?act=reporter&id=3104013) and in Yandex Maps testing
 - :books: Now I am learning Pyton
 - :man_technologist: In addition i will study autotesting on pyton
 - :card_file_box: Random facts about me: I am interested in history, formula 1, soccer and WH40k ![][def]
