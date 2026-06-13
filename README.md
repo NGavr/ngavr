@@ -25,6 +25,7 @@
 
 ## Test Artifacts
 
+- :beginner: [Practicum projects](https://github.com/NGavr/Practicum_projects.git)
 - :paperclips: [Website testing](https://github.com/NGavr/website-testing.git)
 - :gear: [REST and SOAP API testing via Postman](https://github.com/NGavr/api_testing.git)
 -  🐬 [MySQL](https://github.com/NGavr/mysql.git)
