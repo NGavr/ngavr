@@ -9,6 +9,7 @@
 - :books: Now I am learning Pyton
 - :man_technologist: In addition i will study autotesting on pyton
 - :card_file_box: Random facts about me: I am interested in history, formula 1, soccer and WH40k
+-
 - ![][def]
 
 ## Some Tools I Use
